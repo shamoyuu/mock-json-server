@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
